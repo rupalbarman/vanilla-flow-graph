@@ -1,0 +1,21 @@
+.arrow-head-right {
+  fill: rgb(245, 161, 101);
+  stroke: rgb(245, 161, 101);
+  stroke-width: 1px;
+}
+
+.arrow-head-right-highlight {
+  fill: lightslategray;
+  stroke: lightslategray;
+  stroke-width: 1px;
+}
+
+.edge.normal {
+  stroke: rgb(245, 161, 101);
+  stroke-width: 1px;
+}
+
+.edge.edited {
+  stroke: lightslategray;
+  stroke-width: 2px;
+}
